@@ -9,3 +9,6 @@ An example command line application in Rust
 - read file with `std::fs`
 - extract args to struct
 - add error handling with Result
+- add search with test
+- check env var with `env::var`
+- add search case insensitive with test
